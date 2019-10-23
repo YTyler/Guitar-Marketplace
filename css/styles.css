@@ -1,0 +1,25 @@
+/* * {
+  border: 1px solid red;
+} */
+
+#guitarHeader {
+  margin: 0px auto;
+  /* margin-left: auto;
+  margin-right: auto; */
+  width: 100%;
+}
+img {
+  padding-top: 10px;
+  width:100%;
+  height: auto;
+  /* float:left; */
+}
+
+/*
+#overflowRight {
+  overflow: hidden;
+} */
+/* .guitarRow {
+  background-color: red;
+
+} */
